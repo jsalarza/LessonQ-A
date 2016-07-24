@@ -18,6 +18,7 @@ Ans: The review team must have hardware and software development staff, a team o
 4.) Suppose that the C programming language is chosen in the project in exercise 2. Recommend a detailed code review checklist to the review team.
 
 Ans:
+
 1. Does the code do what has been specified in the design specification? 
 
 2. Does the procedure used in the module solve the problem correctly? 
