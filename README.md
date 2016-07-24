@@ -1,4 +1,4 @@
-# LessonQ-A1. 
+# Lesson Q&A Part 1
 
 1.) Study the Yourdon [2] concept of a design walkthrough and the IBM concept [1] of a design inspection. Discuss the similarities and the differences between them.
 
