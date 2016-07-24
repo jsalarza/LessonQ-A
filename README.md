@@ -19,11 +19,17 @@ Ans: The review team must have hardware and software development staff, a team o
 
 Ans:
 1. Does the code do what has been specified in the design specification? 
+
 2. Does the procedure used in the module solve the problem correctly? 
+
 3. Does a software module duplicate another existing module which could be reused? 
-4. Are there computations using variables with inconsistent data types? Is overflow or underflow a possibility? 
+
+4. Are there computations using variables with inconsistent data types? Is overflow or underflow a possibility?
+
 5. Are error codes and condition messages produced by accessing a common table of messages? Each error code should have a meaning, and all of the meanings should be available at one place in a table rather than scattered all over the program code. 
+
 6. Is the code portable? The source code is likely to execute on multiple processor architectures and on different operating systems over its lifetime. It must be implemented in a manner that does not preclude this kind of a variety of execution environments. 
+
 7. Is the code efficient? In general, clarity, readability, or correctness should not be sacrificed for efficiency. Code review is intended to detect implementation choices that have adverse effects on system performance.
 
 
